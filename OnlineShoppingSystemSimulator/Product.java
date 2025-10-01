@@ -1,5 +1,4 @@
 package OnlineShoppingSystemSimulator;
-import Payments.*;
 
 public abstract class Product {
     protected String name;

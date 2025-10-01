@@ -1,5 +1,5 @@
 package OnlineShoppingSystemSimulator;
 
 public interface Returnable {
-    void returnOrder();
+    void returnItem();
 }
